@@ -1,4 +1,5 @@
-# Constructor Generator for C# Classes
+# Constructor^2
+## Constructor Generator for C# Classes
 
 ## Overview
 
@@ -21,7 +22,7 @@ The Constructor Generator for C# Classes is a simple tool designed for generatin
 1. Clone the repository:
 2. ```
    gh repo clone Erkhemee0908/constructor.sqr
-   cd ConstructorGenerator
+   cd constructor.sqr
    ```
 
 3. Restore dependencies:
