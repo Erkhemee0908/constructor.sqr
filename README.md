@@ -20,7 +20,7 @@ The Constructor Generator for C# Classes is a simple tool designed for generatin
 
 1. Clone the repository:
 2. ```
-   git clone https://github.com/yourusername/ConstructorGenerator.git
+   gh repo clone Erkhemee0908/constructor.sqr
    cd ConstructorGenerator
    ```
 
