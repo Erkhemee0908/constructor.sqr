@@ -55,5 +55,3 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 
 **Note:** This project is for educational and experimental purposes. Use generated code responsibly, and always review and test the output thoroughly.
 ```
-
-Replace placeholders like `yourusername` with your actual GitHub username and adjust the content as needed. Include more sections or information based on your project's specific details and requirements.
