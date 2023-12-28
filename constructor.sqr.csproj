@@ -16,6 +16,6 @@
       This project serves as a learning and experimenting ground for C# programming, providing a utility that automates the creation of constructors based on the fields present in a class.
     </Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 </Project>
