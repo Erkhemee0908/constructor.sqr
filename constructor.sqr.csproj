@@ -8,7 +8,7 @@
     <PackageId>Eric.Dotnet.Class.Constructor</PackageId>
     <Authors>Eric_Taivan</Authors>
     <ToolCommandName>csqr</ToolCommandName>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <PackageOutputPath>./nupkg</PackageOutputPath>
     <PackageTags>Class; C#; dotnet class; dotnet</PackageTags>
     <Description>
@@ -17,5 +17,16 @@
     </Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/Erkhemee0908/constructor.sqr</RepositoryUrl> 
+    <RepositoryType>git</RepositoryType> 
+    <OutputType>Exe</OutputType>
+
+
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE" Pack="true" PackagePath=""/>
+    <None Include="README.md" Pack="true" PackagePath=""/>
+  </ItemGroup>
+
 </Project>
