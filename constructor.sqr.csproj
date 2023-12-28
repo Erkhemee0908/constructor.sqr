@@ -1,13 +1,19 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackAsTool>true</PackAsTool>
+    <PackageId>Eric.Dotnet.Class.Constructor</PackageId>
+    <Authors>Eric_Taivan</Authors>
     <ToolCommandName>csqr</ToolCommandName>
+    <Version>1.0.0</Version>
     <PackageOutputPath>./nupkg</PackageOutputPath>
+    <PackageTags>Class; C#; dotnet class; dotnet</PackageTags>
+    <Description>
+      The Constructor Generator for C# Classes is a simple tool designed for generating constructor methods in C# class files. 
+      This project serves as a learning and experimenting ground for C# programming, providing a utility that automates the creation of constructors based on the fields present in a class.
+    </Description>
   </PropertyGroup>
-
 </Project>
