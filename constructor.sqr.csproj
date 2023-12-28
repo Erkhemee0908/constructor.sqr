@@ -15,5 +15,7 @@
       The Constructor Generator for C# Classes is a simple tool designed for generating constructor methods in C# class files. 
       This project serves as a learning and experimenting ground for C# programming, providing a utility that automates the creation of constructors based on the fields present in a class.
     </Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+
   </PropertyGroup>
 </Project>
